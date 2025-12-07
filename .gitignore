@@ -1,0 +1,26 @@
+# Git Ignore for AI World Constitution Docs
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env*
+
+# Docusaurus-specific
+.docusaurus/
+.cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
